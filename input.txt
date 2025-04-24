@@ -1,2 +1,4 @@
-Programming
-contest
+3
+10 10
+13 200
+300 300
